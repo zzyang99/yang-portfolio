@@ -276,7 +276,7 @@ export default function Home() {
         ref={heroRef}
         className="relative min-h-screen flex items-center pt-20 bg-white" style={{backgroundColor: '#e2e3de'}}
       >
-        <div className="container relative z-10 grid grid-cols-2 gap-12 items-center">
+        <div className="container relative z-10 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <div>
               <p className="text-xs font-semibold uppercase tracking-widest mb-4" style={{color: '#667a6c'}}>JOURNALIST</p>
