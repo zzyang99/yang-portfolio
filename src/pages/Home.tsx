@@ -70,7 +70,7 @@ const workItems = {
         titleEn: "Life After Tourism Promotion in Sha Tau Kok",
         titleZh: "旅遊熱潮過後，還有人去沙頭角嗎？",
         descEn: "An infotainment video exploring Sha Tau Kok after the 2024 tourism surge faded. What changed for local residents, business owners, and tourism workers when the crowds moved on?",
-        descZh: "影片记录了2024年旅游热潫脱去后，当下沙头角的旅游业状况。当人群散去时，当地居民、商家和文化工作者的生活发生了什么变化？",
+        descZh: "影片記錄了2024年旅遊熱潮脫去後，當下沙頭角的旅遊業狀況。當人群散去，當地居民、商家和文化工作者的生活發生了什麼變化？",
         url: "https://youtu.be/5CaSj4lZWyU",
         date: "2026",
       },
