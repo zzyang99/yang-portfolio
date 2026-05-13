@@ -267,6 +267,14 @@ export default function Home() {
             <a href="#contact" className="hover:text-accent transition-colors">
               Contact
             </a>
+            <a
+  href="/ZHOU_Zhengyang_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-3 py-1 border border-accent text-accent rounded hover:bg-accent hover:text-white transition-colors"
+>
+  Resume
+</a>
           </div>
         </div>
       </nav>
