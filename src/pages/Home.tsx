@@ -267,7 +267,7 @@ export default function Home() {
             <a href="#contact" className="hover:text-accent transition-colors">
               Contact
             </a>
-            <a href="/client/public/CV_Zhengyang_Zhou.pdf"
+            <a href="Users/alexandra/Desktop/course materials/作品集/zhou-zhengyang-portfolio/client/public/CV_Zhengyang_Zhou.pdf"
                target="_blank"
                rel="noopener noreferrer">
               CV
