@@ -331,23 +331,23 @@ export default function Home() {
             <p className="text-xs font-semibold text-accent uppercase tracking-widest mb-4">ABOUT</p>
             <div className="prose prose-sm max-w-none text-foreground/80 space-y-4">
               <p>
-                I am a final-year psychology student at The Chinese University of Hong Kong, minoring in Journalism and Communication. After lots of trial and error, I found myself the happiest when learning new things and creating, so I made up my mind to work as a journalist after graduation.
+                I am a final-year psychology student at The Chinese University of Hong Kong, minoring in Journalism and Communication. I explore different forms of content creating: written, visual, audio, etc. Below you can check out what I’ve worked on!
               </p>
               <p>
-                I am interested in issues surrounding marginalized communities, diasporic identities, and social affairs across mainland China, Hong Kong, and Taiwan. Having studied in mainland China, Hong Kong, Taiwan, and the United States, I bring a cross-regional perspective to the way I tell stories. Beyond journalism and writing, I am also drawn to film, musical theatre, and backpacking, all of which continue to shape my curiosity and storytelling.
-              </p>
+               Outside of story-telling, I am nerdy about films, standup comedy， Broadway musicals and different Chinese dialects. 
+                </p>
               <p>
-                I am currently seeking opportunities in journalism, be it reporting, production or collaborative projects, where I can continue developing my craft in both Chinese and English.
-              </p>
+                Happy to connect and work together!
+                </p>
               <hr className="my-8" />
               <p>
-                我目前就读于香港中文大学心理学专业四年级，辅修新闻与传播。在大学期间有过很多探索和试错，最终发现我在学习新知识和创作的时候最幸福，于是决定毕业后成为一名记者。
+                我目前就读于香港中文大学心理学专业四年级，辅修新闻与传播。我正在探索不同形式的内容创作：文字、影像、声音…… 网站下方可以看到我的作品～
               </p>
               <p>
-                我关注弱势群体、离散社群、以及中港台社会议题。曾在中国大陆、香港、台湾与美国求学，这些跨地域的生活与学习经历也塑造了我理解社会、观察人与地方关系的方式。除了新闻与写作，我也喜欢电影、音乐剧和背包旅行，并不断从不同的文化经验中寻找讲述故事的灵感。
+                创作之外，我喜欢研究中国不同地区的方言、看很多电影、单口喜剧和百老汇音乐剧。
               </p>
               <p>
-                目前，我正在寻找新闻报道、内容制作或其他合作机会，希望继续以中文和英文打磨自己的新闻实践。
+                期待合作的机会！
               </p>
             </div>
           </div>
