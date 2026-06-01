@@ -76,11 +76,28 @@ const workItems = {
       },
     ],
   },
-  written: {
+  written: 
+  {
     title: "Written",
     icon: BookOpen,
     items: [
-      {
+{
+ id: "cuba-energy-crisis",
+  titleZh: "哈瓦那一天停電20小時，古巴能源危機與美國百億援助的盤算？｜Whatsnew",
+  descZh: "古巴總統迪亞斯-卡內爾在社交媒體上稱，若美國的資助符合國際人道主義援助的原則，會考慮接受。",
+  publication: "端傳媒 Initium Media",
+  date: "May 2026",
+  url: "https://theinitium.com/20260521-whatsnew-cuba-energy-crisis-venezuela-blockade-us-aid/"
+},
+   {
+  id: "shanxi-coal-mine-gas-explosion",
+  titleZh: "山西煤礦場瓦斯爆炸至少82死，企業涉「陰陽圖紙」等重大違規｜Whatsnew",
+  descZh: "救援人員反映，部分井下地點在圖紙上沒有標注，導致現場指揮部只能增派人手，逐條巷道排查搜救。",
+  publication: "端傳媒 Initium Media",
+  date: "May 2026",
+  url: "https://theinitium.com/20260525-whatsnew-china-shanxi-coal-mine-gas-explosion/"
+},
+  {
   id: "seeing-myanmar-beyond-the-scams",
   titleZh: "看見詐騙陰影之外的緬甸",
   titleEn: "Seeing Myanmar Beyond the Scams",
@@ -267,7 +284,7 @@ export default function Home() {
             <a href="#contact" className="hover:text-accent transition-colors">
               Contact
             </a>
-            <a href="Users/alexandra/Desktop/course materials/作品集/zhou-zhengyang-portfolio/client/public/CV_Zhengyang_Zhou.pdf"
+            <a href="client/public/CV_Zhengyang_Zhou.pdf"
                target="_blank"
                rel="noopener noreferrer">
               CV
