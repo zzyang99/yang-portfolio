@@ -81,6 +81,14 @@ const workItems = {
     title: "Written",
     icon: BookOpen,
     items: [
+  {
+ id: "paramount-warner-merger-sparked-fears-about-press-freedom",
+  titleZh: "派拉蒙吞下華納兄弟：CNN易主天舞集團，編輯獨立能維持嗎？｜Whatsnew",
+  descZh: "這宗交易不只改變好萊塢商業版圖，也可能影響大眾看影劇與獲取新聞的方式。",
+  publication: "端傳媒 Initium Media",
+  date: "Oct 2026",
+  url: "https://theinitium.com/20261016-whatsnew-paramount-warner-merger-sparked-fears-about-press-freedom/"
+},
 {
  id: "cuba-energy-crisis",
   titleZh: "哈瓦那一天停電20小時，古巴能源危機與美國百億援助的盤算？｜Whatsnew",
@@ -284,10 +292,10 @@ export default function Home() {
             <a href="#contact" className="hover:text-accent transition-colors">
               Contact
             </a>
-            <a href="client/public/CV_Zhengyang_Zhou.pdf"
+            <a href="/CV_Zhengyang_Zhou_J.pdf"
                target="_blank"
                rel="noopener noreferrer">
-              CV
+              View CV
             </a>
           </div>
         </div>
@@ -358,7 +366,7 @@ export default function Home() {
                 </p>
               <hr className="my-8" />
               <p>
-                我目前就读于香港中文大学心理学专业四年级，辅修新闻与传播。我正在探索不同形式的内容创作：文字、影像、声音等等。欢迎到网站下方可以看看我发表过的作品！创作之外，我喜欢研究中国不同地区的方言、看很多电影、单口喜剧和百老汇音乐剧。
+                我目前就读于香港中文大学心理学专业四年级，辅修新闻与传播。我正在探索不同形式的内容创作：文字、影像、声音等等。欢迎到网站看看我发表过的作品！创作之外，我喜欢研究中国不同地区的方言、看很多电影、单口喜剧和百老汇音乐剧。
               </p>
               <p>
                 期待合作的机会！
